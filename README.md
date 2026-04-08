@@ -1,1 +1,0 @@
-# CORS-Origin-Reflection-Oppo-Identity
