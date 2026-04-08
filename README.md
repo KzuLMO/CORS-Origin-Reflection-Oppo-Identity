@@ -259,3 +259,17 @@ The HackerOne triage team confirmed the vulnerability was valid and classified a
 - [PortSwigger — CORS vulnerabilities](https://portswigger.net/web-security/cors)
 - [MDN — Access-Control-Allow-Credentials](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Credentials)
 - [W3C CORS Spec — Credentialed Requests](https://www.w3.org/TR/cors/#resource-requests)
+
+  ---
+
+  ## Duplicate Proof
+
+./shit_oppo.png
+
+Two bugs. Two High severities. Two duplicates.
+
+At this point I'm not a bug bounty hunter — I'm a beta tester for other researchers' reports.
+
+Jokes aside, finding the same critical vulnerability independently, across a complex infrastructure like OPPO's 7-region SSO, without any prior hint, is exactly the kind of validation that matters. The bounty went to whoever opened the tab first. The methodology is mine.
+
+On to the next one. 🔍
