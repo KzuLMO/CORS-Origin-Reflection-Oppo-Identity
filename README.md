@@ -264,7 +264,7 @@ The HackerOne triage team confirmed the vulnerability was valid and classified a
 
   ## Duplicate Proof
 
-./shit_oppo.png
+![Screenshot 0 — Duplicate Proof](./shit_oppo.png)
 
 Two bugs. Two High severities. Two duplicates.
 
